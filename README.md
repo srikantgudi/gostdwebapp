@@ -1,6 +1,8 @@
-# gostdwebapp !! Template-less GoLang Demo App!
+# gostdwebapp
 
-## Postgres + std Go packages only (2KB → 2.07MB)
+## Template-less GoLang Demo App!
+
+## Using Postgres + std Go packages only.
 
 - ### Invented template-less rendering—no external engine hassles
 - ### Pure HTML streaming = zero parse overhead  
