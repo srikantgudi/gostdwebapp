@@ -1,0 +1,4 @@
+go build -ldflags "-w -s" .
+upx --best --lzma $1
+ls -l
+./$1
