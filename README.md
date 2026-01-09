@@ -28,4 +28,4 @@ ls -l
 
 ### Screenshot
 
-[View Screenshot](template_less_go_app_home_page-1.png)
+[View Screenshot](template_less_go_app_home_page.png)
