@@ -1,12 +1,14 @@
-# gostdwebapp
+# gostdwebapp !! Template-less GoLang Demo App!
 
-## Template-less GoLang Demo App!
+## Postgres + std Go packages only (2KB → 2.07MB)
 
-### - This concept of template-less rendering was thought of to avoid the hassles of configuring external templating engine
+- ### Invented template-less rendering—no external engine hassles
+- ### Pure HTML streaming = zero parse overhead  
+- ### HTable() utility = perfect tables from structs instantly
 
-### - No templates. Pure performance. Direct HTML streaming skips parse/render overhead.
+## Based on
 
-### - Created utility package to eliminate repetition; generate perfect tables from Go structs instantly.
+- ### This is based on a sample database named 'northwind'.
 
 ## Compilation Script
 
