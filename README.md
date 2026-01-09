@@ -25,3 +25,7 @@ ls -l
 ```
 ./run gostdwebapp
 ```
+
+### Screenshot
+
+[View Screenshot](template_less_go_app_home_page-1.png)
